@@ -8,8 +8,8 @@ import pickle
 def main():
 
      # Main interface
-    st.title("ParkWhere")
-    st.write("Check out the side bar to find out more about ParkWhere!")
+    st.title("PARKiT")
+    st.write("Minor Project - REAL TIME PARKING PREDICTION SYSTEM ")
 
     p1, p2 = st.columns([1, 1])
 
